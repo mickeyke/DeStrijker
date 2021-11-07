@@ -1,0 +1,26 @@
+﻿@charset "UTF-8";
+/* CSS Document */
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.centered {
+    margin: auto;
+}
+
+.imgLogo{
+    width:700px;
+    margin-bottom:30px;
+}
+
+.text {
+    margin-left: 15px;
+    margin-top:20px;
+    color: #312783;
+}
+
+.inspring {
+    margin-left: 100px;
+}
+
