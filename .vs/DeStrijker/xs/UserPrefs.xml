@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{EA3D9A88-F843-4C1B-BAC0-32FB6E660EA9}|Default">
+  <MonoDevelop.Ide.ItemProperties.DeStrijker PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DeStrijker/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="DeStrijker/Recources/Language.resx" Line="10" Column="35" />
+      <File FileName="DeStrijker/Views/Shared/_Layout.cshtml" Line="53" Column="108" />
+      <File FileName="DeStrijker/Controllers/HomeController.cs" Line="24" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DeStrijker" expanded="True">
+            <Node name="DeStrijker" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Recources" expanded="True">
+                <Node name="Language.resx" expanded="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
